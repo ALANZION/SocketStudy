@@ -1,5 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
+## Name:ALAN ZION H
+## REG NO:212223240004
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
